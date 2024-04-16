@@ -1,6 +1,5 @@
 ## Hi, I'm [sahil](https://t.me/sahil_kzx). Welcome to my GitHub Profile!
 
-[![Profile views](https://komarev.com/ghpvc/?username=sahisi552&label=Profile%20views&style=for-the-badge)](https://github.com/sahilsi552)
 - 💫 I’m currently working on developed my skill
 
 ---
