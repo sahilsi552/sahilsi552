@@ -1,22 +1,45 @@
+## Hi, I'm [sahil](https://t.me/sahil_kzx). Welcome to my GitHub Profile!
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Thhe_famous_guy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Gfxravana) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sahilsi552&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sahilsi552&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilsi552&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Profile views](https://komarev.com/ghpvc/?username=sahisi552&label=Profile%20views&style=for-the-badge)](https://github.com/sahilsi552)
+- 💫 I’m currently working on developed my skill
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sahilsi552&icon=1&color=1)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Jetblaze) 
+## 🛠️ Languages and tools
+</br>
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Languages and Tools](https://skillicons.dev/icons?i=androidstudio,au,vscode,docker,git,github,linux,heroku,ae,redis,mongodb,html,py,flutter,fastapi&perline=10)](https://t.me/sahil_kzx)
+
+---
+
+## 🔗 Connect with me
+
+<!-- png icons from https://iconscout.com/ -->
+<a href="https://xditya.me" class="padded"><img align="left" alt="https://xditya.me" width="28px" src="./res/website.png" /></a> 
+<a href="https://youtube.com/xditya" class="padded"><img align="left" alt="xditya" width="28px" src="./res/youtube.png" /></a> 
+<a href="https://telegram.dog/xditya" class="padded"><img align="left" alt="xditya" width="28px" src="./res/telegram.png" /></a> 
+<a href="https://twitter.com/its_xditya" class="padded"><img align="left" alt="xditya" width="28px" src="./res/twitter.png" /></a> 
+<a href="https://linkedin.com/in/xditya" class="padded"><img align="left" alt="xditya" width="28px" src="./res/linkedin.png" /></a> 
+</br>
+
+---
+
+## 📊 Stats
+
+
+
+---
+## 👨‍💻 LOC
+[![Lines of Code](https://api.githubtrends.io/user/svg/sahilsi552/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)](https://t.me/sahil_kzx)
+
+---
+
+## 🎵 Now playing
+
+[![Spotify](https://spotify-readme-new-lyart.vercel.app/api?theme=dark&rainbow=true&scan=true)](https://open.spotify.com/user/on84l0syf9y9m2m84unz4h8uq)
+
+---
+
+## 💰 Support Me
+
+<a href="https://ko-fi.com/jetblaze" class="padded"><img height="35" style="border:0px;height:35px;" alt="xditya" src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0" /></a>
