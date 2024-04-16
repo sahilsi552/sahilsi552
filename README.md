@@ -38,7 +38,7 @@
 
 ## 🎵 Now playing
 https://open.spotify.com/user/31zf7vohe6mux6b6d2njoird6ao4
-[![Spotify](https://spotify-readme-new-lyart.vercel.app/api?theme=dark&rainbow=true&scan=true)](https://open.spotify.com/user/2e18124c0fa34b2492ed94e2f7a9fa1c)
+[![Spotify](https://spotify-readme-new-lyart.vercel.app/api?theme=dark&rainbow=true&scan=true)](https://open.spotify.com/user/31zf7vohe6mux6b6d2njoird6ao4)
 
 ---
 
